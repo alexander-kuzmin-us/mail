@@ -2,7 +2,6 @@
 
 A front-end JavaScript email client application that makes API calls to send and receive emails. This project demonstrates dynamic content loading, API interactions, and single-page application architecture using vanilla JavaScript.
 
-![Email Client Screenshot](https://via.placeholder.com/800x400?text=Email+Client+Screenshot)
 
 ## Features
 
